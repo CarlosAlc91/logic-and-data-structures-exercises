@@ -23,7 +23,7 @@ function commonArray(firstArray, secondArray) {
       common.push(element)
     }
   }
-
-  return common
+  const result = `Common elements are: ${common}`
+  return result
 }
 console.log(commonArray(firstArray, secondArray))
