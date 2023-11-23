@@ -9,7 +9,7 @@
   [-][-][-]
 */
 
-let number = 4
+let number = 7
 
 function stair(number) {
   let completeStair = ''
